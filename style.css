@@ -1,0 +1,34 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    margin: 0%;
+}
+.orange{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+    padding: 20px 10px;
+}
+.half-width img{
+    width: 85%;
+}
+section{
+    padding: 20px 0px 5px 20px;
+    padding-left: 40px;
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+.link-btn{
+    background-image: linear-gradient(orange,rgb(130, 87, 8));
+    padding: 10px;
+    border-radius: 3px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
